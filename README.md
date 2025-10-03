@@ -1,1 +1,1 @@
-# FocusGuard
+# QueryCraft
